@@ -29,5 +29,4 @@ const translations = {
     thankYou: "Gracias"
 }
 
-export { user, otheruser, anotheruser, translations };
 console.log(user, otheruser, anotheruser, translations);
