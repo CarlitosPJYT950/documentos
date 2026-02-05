@@ -1,6 +1,6 @@
-import type { User } from "./components.ts";
+import { User } from "./components.js";
 
-const user: User = {
+const user = {
   name: "Alice",
   age: 30,
   email: "juanpana10ospina@gmail.com",
@@ -12,22 +12,20 @@ const user: User = {
     }
 }
 
-const otheruser: User = {
+const otheruser = {
     name: "Bob",
     age: 25,
     email: "juanestebanpradaospina@gmail.com",
     role: "user",
 }
 
-const anotheruser: User = {
+const anotheruser = {
     name: "Charlie",
     age: 28,
     role: "guest",
 }
 
-type Dictionary = {[key: string]: string;}
-
-const translations: Dictionary = {
+const translations = {
     hello: "Hola",
     goodbye: "Adiós",
     thankYou: "Gracias"
