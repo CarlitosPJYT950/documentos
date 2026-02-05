@@ -1,14 +1,14 @@
 const company = {
-    name: string,
-    address: string,
-    phone: string
+    name: "string",
+    address: "string",
+    phone: "string"
 }
 
 const User = {
-    name: string,
-    age: number,
-    email: string,
-    company: company,
+    name: "string",
+    age: "number",
+    email: "string",
+    company: "company",
     role: "admin" | "user" | "guest",
 }
 
@@ -21,7 +21,7 @@ const entity = {
 };
 
 const Configuration = {
-    apiKey: string,
+    apiKey: "string",
     theme: "light" | "dark"
 }
 
