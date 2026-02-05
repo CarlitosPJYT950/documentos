@@ -1,5 +1,3 @@
-import { User } from "./components.js";
-
 const user = {
   name: "Alice",
   age: 30,
