@@ -3,3 +3,4 @@
 .npmignore
 /node_modules/test/build/
 /node_modules/test/nbproject/private/
+/node_modules/settings/nbproject/private/
