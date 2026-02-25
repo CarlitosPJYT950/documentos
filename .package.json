@@ -9,9 +9,7 @@
           "public",
           "src"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "scripts": {"test": "echo \"Error: no test specified\" && exit 1"},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CarlitosPJYT950/documentos.git"
@@ -20,11 +18,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "bugs": {
-    "url": "https://github.com/CarlitosPJYT950/documentos/issues"
-  },
+  "bugs": {"url": "https://github.com/CarlitosPJYT950/documentos/issues"},
   "homepage": "https://github.com/CarlitosPJYT950/documentos#readme",
-  "dependencies": {
-    "nodejs": "^0.0.0"
-  }
+  "dependencies": {"nodejs": "^0.0.0"}
 }
