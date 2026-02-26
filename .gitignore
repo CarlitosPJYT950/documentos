@@ -11,3 +11,5 @@
 /node_modules/lib/build/
 /node_modules/utils/nbproject/private/
 /node_modules/utils/build/
+/target/nbproject/private/
+/target/build/
