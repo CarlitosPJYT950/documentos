@@ -4,7 +4,18 @@
     // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Public",
+            "request": "launch",
+            "mainClass": "Public"
+        },
+        {
+            "type": "java",
+            "name": "node_modules",
+            "request": "launch",
+            "mainClass": "node_modules.node_modules"
+        },
         {
             "name": ".NET Core Attach",
             "type": "coreclr",
@@ -30,7 +41,6 @@
                 }
             ]
         },
-
         {
             "type": "java",
             "name": "Test",
