@@ -6,6 +6,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Src",
+            "request": "launch",
+            "mainClass": "src.Src"
+        },
+        {
+            "type": "java",
             "name": "Public",
             "request": "launch",
             "mainClass": "Public"
